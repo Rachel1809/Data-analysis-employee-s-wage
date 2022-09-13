@@ -1,6 +1,6 @@
 # Wage and its dependence on other factors
 
-- This is a final data analysis project of Applied statistics for scientist and engineers II. 
+- This is a final data analysis project of Applied Statistics for Scientist and Engineers II. 
 - The language used in this project is `R`, and the report is written with the support of RMarkdown.
 - The report includes 5 main parts:
   - About the dataset: description of data, structure of data and data pre-processing.
