@@ -8,5 +8,7 @@
   - Inferential statistics: Hypothesis testing on mean, proportion and test of independence and give conclusion.
   - Regression: build the simple linear regression and multiple linear regression to find the parameter constructing the line that best fit the data given.
   - Summary: summarize the main points of the report.
+
+The [report](https://github.com/Rachel1809/Data-analysis-employee-wage/blob/6a51a98b9226431f8152e9e68e93dd004d4c600c/Report.pdf) is here!
   
   
